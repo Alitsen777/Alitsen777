@@ -12,7 +12,11 @@ I'm exploring software development and learning by building projects. This profi
 
 The snake animation visits my GitHub contribution graph. GitHub Actions refreshes it automatically.
 
-![Contribution Snake](https://raw.githubusercontent.com/Alitsen777/Alitsen777/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alitsen777/Alitsen777/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alitsen777/Alitsen777/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Alitsen777/Alitsen777/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## 🌱 Currently
 
