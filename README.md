@@ -8,6 +8,12 @@ I'm exploring software development and learning by building projects. This profi
 
 - [git-tutorial](https://github.com/Alitsen777/git-tutorial) — A place for my Git learning and practice.
 
+## 🐍 Contribution snake
+
+The snake animation visits my GitHub contribution graph. GitHub Actions refreshes it automatically.
+
+![Contribution Snake](https://raw.githubusercontent.com/Alitsen777/Alitsen777/output/github-contribution-grid-snake.svg)
+
 ## 🌱 Currently
 
 - Building projects and growing my skills one step at a time.
