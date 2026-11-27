@@ -6,7 +6,6 @@
 
 ## 👩‍💻 About Me
 
-我是 Alice，在泌尿科學領域擔任多年的**生醫技術研發人員**，負責實驗流程、數據管理與研究計畫執行。現在我把這份嚴謹帶進 **AI 自動化與資訊安全**：用 AI 輔助開發打造能自己運作的工具，並從一開始就做好權限控管與資安防護。
 
 I spent several years as a **biomedical R&D specialist** in urology research, running experiments, managing sensitive data and delivering research projects end to end. Now I bring that rigor to **AI-powered automation**: I build tools that work on their own (RPA workflows, dashboards, alerts) with **AI-assisted development**, and I design them with **security and access control** in mind from day one.
 
