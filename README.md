@@ -41,7 +41,7 @@ A web app that helps investors see their ETF dividend cash flow for the next 12 
 
 ---
 
-## 🏆 Highlights
+## 🏆 Awards
 
 - 🥇 **The Best of Arduino** — [Hacktoberfest Open Source AI Challenge, Week 2](https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-2-side-hustle-winners-2i33) with [**PGAS（Patrick Get A Nose）· 派大星有鼻子了**](https://github.com/PGASlab), an AI "nose" built on the Arduino UNO Q, as a member of team **PGAS Lab** · [📝 Project write-up](https://dev.to/k66inthesky/llms-have-no-nose-so-we-built-one-an-ai-nose-on-the-arduino-uno-q-3fhl)
 - 💡 **Entrepreneurial Potential Award（創業潛力獎）** — [FITI Innovation & Entrepreneurship Program](https://teachup.fju.edu.tw/teaching_results/detail/838)
